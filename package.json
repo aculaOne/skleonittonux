@@ -1,0 +1,14 @@
+{
+  "name": "skleonittonux",
+  "version": "1.0.0",
+  "description": "Форматер для конфигурации рецептов плагина Brewery в Markdawn таблицу",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "aculaOne",
+  "license": "MIT",
+  "dependencies": {
+    "yamljs": "^0.3.0"
+  }
+}
